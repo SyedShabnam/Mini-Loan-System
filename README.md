@@ -50,15 +50,15 @@ This command-line banking simulation project allows users to:
 
 ## 🚀 How to Run
 
-1. Copy the source code into a file, e.g., `loan_system.c`
+1. Copy the source code into a file, e.g., `MiniBank.c`
 2. Compile the code:
    ```bash
-   gcc loan_system.c -o loan_system
+   gcc loan_system.c -o MiniBank
 
 3. Run the program:
 
    ```bash
-   ./loan_system
+   ./MiniBank
    ```
 
 ⭐ *Star this repo if you found it useful!*
