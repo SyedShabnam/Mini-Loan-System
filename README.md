@@ -26,7 +26,7 @@ This command-line banking simulation project allows users to:
 ## 📝 Documentation & Presentation
 
 - 📄 [View Word Document with Source Code & Explanation](project.docx)
-- 📊 [View PPT Presentation of the Source Code (PDF)](ppt%20mbls.pdf)
+- 📊 [View PPT Presentation of the Source Code (PDF)](ppt%20mbls%20.pdf)
 
 ---
 
